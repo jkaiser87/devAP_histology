@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the following metadata."
+title: "devAP_histology: A developmental atlas extension of AP_histology"
+authors:
+  - family-names: Kaiser
+    given-names: Julia
+    orcid: https://orcid.org/0000-0002-XXXX-XXXX  # ← optional, update if available
+    affiliation: Burke Neurological Institute, Weill Cornell Medicine
+    email: julia.kaiser@weill.cornell.edu  # ← optional, or remove
+version: 1.0.0
+date-released: 2024-06-05  # ← update if needed
+url: https://github.com/jkaiser87/devAP_histology
+repository-code: https://github.com/jkaiser87/devAP_histology
+license: MIT
+keywords:
+  - histology
+  - brain atlas
+  - developmental neuroscience
+  - mouse brain
+  - Allen Brain Atlas
+  - devCCF
+  - registration
+  - image processing
+preferred-citation:
+  type: software
+  title: "devAP_histology: A developmental atlas extension of AP_histology"
+  authors:
+    - family-names: Kaiser
+      given-names: Julia
+  year: 2024
+  url: https://github.com/jkaiser87/devAP_histology
+  version: 1.0.0
