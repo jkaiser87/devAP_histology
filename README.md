@@ -12,7 +12,7 @@ These tools are designed to work together for comprehensive anatomical reconstru
 
 ## Key Adaptations
 
-- **Allen Mouse Brain Atlas** — pre-processed and included directly, based on Wang Q, et al., 2020 [https://doi.org/10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007))
+- **Allen Mouse Brain Atlas** — pre-processed and included directly through AP_histology, based on Wang Q, et al., 2020 [https://doi.org/10.1016/j.cell.2020.04.007](https://doi.org/10.1016/j.cell.2020.04.007))
 - **Developmental Mouse Brain Atlas (P4–P14)** — based on Kronman et al., 2024 ([DOI: 10.1038/s41467-024-53254-w](https://doi.org/10.1038/s41467-024-53254-w))
 - Standardized processing of files (redacted some functions from the original APhist, eg scaling of images)
 - Large files managed with **Git LFS** for reliable download and version control
