@@ -26,7 +26,7 @@ These tools are designed to work together for comprehensive anatomical reconstru
 - Git LFS (see below)
 
 
-## Folder Setup
+## Installation/Cloning of scripts
 
 This repository uses Git Large File Storage (LFS) to manage large atlas files (e.g., .npy atlas files).
 
