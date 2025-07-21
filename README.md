@@ -29,7 +29,9 @@ These tools are designed to work together for comprehensive anatomical reconstru
 ## Folder Setup
 
 This repository uses Git Large File Storage (LFS) to manage large atlas files (e.g., .npy atlas files).
+
 🔧 To install Git, go to: https://git-scm.com/downloads and download and install Git for Windows. During installation, keep most default settings. Make sure Git Bash and Git CMD options are enabled.
+
 🔧 You also need to install Git LSF: Go to: https://git-lfs.github.com/, click Download, then install Git LFS with the installer.
 
 Before cloning or pulling this repo, please run the following once in your command prompt (Hit the Windows key, type cmd, and open the Command Prompt):
